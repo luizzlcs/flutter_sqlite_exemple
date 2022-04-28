@@ -20,6 +20,11 @@
 <img width="" height="180" src="assets/images/sqlite.png"/>
 </p>
 - Fazendo acesso ao banco:
+
+<p align="center">
+<img width="" height="180" src="assets/images/dados.png"/>
+</p>
+
     > Insert: Inserindo dados;
 
     > Delete: Eliminando dados;
