@@ -1,16 +1,34 @@
-# flutter_sqlite_exemple
+<h1 align="center"> SQLite com Flutter</h1>
 
-A new Flutter project.
+<p align="center"> Um pouco de SQLite</p>
 
-## Getting Started
+<p align="center">
+<img width="" height="270" src="assets/images/logo.png"/>
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+ > SOBRE O MÓDULO:
+- O objetivo dessa atividade foi conhecer como funciona o SQLite dentro do flutter e como implementa-lo.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Packages: 
+    > <b>SQfLite</b>: Utilizado o pacote para utilizar a extrutura de banco de dados embarcado no aplicativo, pacote disponível [aqui](https://pub.dev/packages?q=sqflite). 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    > <b>Path</b>: O pacote faz a manipulação do caminho de acesso ao banco seja multiplataforma de modo que os diferentes separadores de caminhos sejam identificados automáticamente, para mais detalhes sobre o pacote, clique [aqui](https://pub.dev/packages/path).
+- Criando extrutra de código para o versionamento do banco;
+- Criando tabelas;
+- Fazendo acesso ao banco:
+    > Insert: Inserindo dados;
+
+    > Delete: Eliminando dados;
+
+    > Update: Atualizando os dados;
+
+    > Select: Visualizando todos os dados do banco;
+
+
+
+### Autor
+
+<img alt="Luiz Carlos" title="Luiz Carlos" src="https://avatars.githubusercontent.com/u/29442285?s=96&v=4" height="100" width="100" />
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LUIZ_CARLOS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizzlcs/)](https://www.linkedin.com/in/luizzlcs/)
