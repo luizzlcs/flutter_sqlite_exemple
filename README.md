@@ -16,6 +16,9 @@
     > <b>Path</b>: O pacote faz a manipulação do caminho de acesso ao banco de multiplataformas, de modo que os diferentes separadores de caminhos sejam identificados automáticamente, para mais detalhes sobre o pacote, clique [aqui](https://pub.dev/packages/path).
 - Criando extrutra de código para o versionamento do banco;
 - Criando tabelas;
+<p align="center">
+<img width="" height="270" src="assets/images/sqlite.png"/>
+</p>
 - Fazendo acesso ao banco:
     > Insert: Inserindo dados;
 
