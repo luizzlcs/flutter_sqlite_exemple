@@ -17,7 +17,7 @@
 - Criando extrutra de código para o versionamento do banco;
 - Criando tabelas;
 <p align="center">
-<img width="" height="270" src="assets/images/sqlite.png"/>
+<img width="" height="180" src="assets/images/sqlite.png"/>
 </p>
 - Fazendo acesso ao banco:
     > Insert: Inserindo dados;
